@@ -8,6 +8,16 @@ The platform combines event-driven cloud processing, AI-assisted analysis, deter
 
 ---
 
+## Project Context
+
+**Development began:** September 2025  
+**Status:** Production system under ongoing development  
+**Public showcase:** August 2026
+
+This repository is a sanitized portfolio representation of a privately maintained production system. The public commit history reflects the creation and maintenance of this showcase, not the full development history of the production application.
+
+---
+
 ## Overview
 
 The project started with a practical problem: reviewing customer service calls manually makes it difficult to evaluate enough interactions, keep scoring consistent, provide timely coaching, and give management useful visibility into what is happening across the organization.
